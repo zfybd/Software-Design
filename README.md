@@ -1,5 +1,5 @@
-# Software-Design
-Language learning flashcards. This project requires the implementation of software for
+# Language learning flashcards
+This project requires the implementation of software for
 learning a given language using flashcards. The user of this project is a person who needs to
 learn a new language, e.g., Dutch, interactively. You can see this project as developing an
 ultra-basic version of apps like Duolingo running locally on the laptop of the user. The system
