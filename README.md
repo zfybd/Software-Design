@@ -12,5 +12,6 @@ step-by-step basis with gamification elements; (3) persistence: levels and flash
 persisted as JSON files and can be imported/exported from/into a predefined folder; (4) provide
 to the user an overview of their achievement badges based on the performed learning activities.
 The main technical challenge of this project is to make the system as independent as
-possible from the specific levels and their corresponding flashcards; in other words, it must be
-easy to add/configure new levels and flashcards with no changes in the models/code. 
+possible from the specific levels and their corresponding flashcards. 
+
+The project's key highlights include its comprehensive mind map and innovative design concept, implemented in Java.
