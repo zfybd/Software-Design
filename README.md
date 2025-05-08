@@ -1,8 +1,6 @@
 # 🌍 Language Learning Flashcards 
 
 
-![App Screenshot](https://via.placeholder.com/800x400?text=Language+Learning+Flashcards+Screenshot) *(replace with actual screenshot)*
-
 ## ✨ Features
 
 - **Level Management**:
@@ -33,6 +31,5 @@
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/language-flashcards.git
-cd language-flashcards
-mvn clean install
+
+![App Screenshot](https://via.placeholder.com/800x400?text=Language+Learning+Flashcards+Screenshot) *(replace with actual screenshot)*
