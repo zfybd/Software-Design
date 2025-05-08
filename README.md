@@ -25,9 +25,7 @@
 
 ## 🚀 Getting Started
 
-### Prerequisites
-- Java 17 or higher
-- Maven (for building)
-
+Design diagram demo:
+![Class_diagram drawio](https://github.com/user-attachments/assets/d02721d0-2d32-4bcd-a05c-e39ad945224e)
 
 
