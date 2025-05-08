@@ -32,4 +32,3 @@
 ### Installation
 ```bash
 
-![App Screenshot](https://via.placeholder.com/800x400?text=Language+Learning+Flashcards+Screenshot) *(replace with actual screenshot)*
